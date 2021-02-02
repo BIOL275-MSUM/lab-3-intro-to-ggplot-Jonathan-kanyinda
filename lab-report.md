@@ -4,9 +4,9 @@ Jonathan Kanyinda
 2021-02-02
 
 Instructions for this lab report can be found on [Your assignment
-section of Lab Assignment 3 Introduction to
+section of Lab Assignment 3 introduction to
 ggplot2](https://biol275-msum.github.io/introduction-to-ggplot2.html#your-assignment)
-on the lab website.
+on the lab web site.
 
 ## Fireflies
 
@@ -147,8 +147,8 @@ ggplot(data = birds) +
   theme_classic(base_size = 12) +
   theme(
     axis.title = element_text(face = "bold"),
-    axis.text = element_text(color = "blue", size = rel(.6)),
-    axis.text.x = element_text(angle = 50 , hjust = 1),
+    axis.text = element_text(color = "black", size = rel(.6)),
+    axis.text.x = element_text(angle = 70 , hjust = 1),
     axis.ticks.x = element_blank()
   ) + 
   scale_y_log10(expand = expansion(mult = 0))
@@ -170,7 +170,11 @@ categorical variable is best visualized using a bar graph.
 I reviewed Nathan Snell’s lab report at this URL:
 <https://github.com/BIOL275-MSUM/lab-3-intro-to-ggplot-NathanSnell1/issues/1>
 
-Haider Ali reviewed my lab report at this URL: \_\_\_
+I reviewed Tyler Edvall’s lab report at this URL:
+<https://github.com/BIOL275-MSUM/lab-3-intro-to-ggplot-tdedvall/issues/3>
+
+Haider Ali reviewed my lab report at this URL:
+<https://github.com/BIOL275-MSUM/lab-3-intro-to-ggplot-Jonathan-kanyinda/issues/1>
 
 ## Session Info
 

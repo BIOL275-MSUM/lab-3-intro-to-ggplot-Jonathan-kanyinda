@@ -41,7 +41,7 @@ ggplot(data = birds) +
   theme_classic(base_size = 12) +
   theme(
     axis.title = element_text(face = "bold"),
-    axis.text = element_text(color = "blue", size = rel(.6)),
+    axis.text = element_text(color = "black", size = rel(.6)),
     axis.text.x = element_text(angle = 50 , hjust = 1),
     axis.ticks.x = element_blank()
   ) + 

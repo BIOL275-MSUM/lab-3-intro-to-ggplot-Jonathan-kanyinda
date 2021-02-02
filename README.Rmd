@@ -5,8 +5,6 @@ date: "`r format(Sys.Date())`"
 output: github_document
 ---
 
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE ____ WITH YOUR OWN TEXT
-
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 ## Lab objectives
@@ -31,6 +29,6 @@ The repository contains the following scripts:
 
 - [Lab Report 3](lab-report.md)
 - [Lab 3-intro to ggplot.R](Lab 3-intro to ggplot.R) 
-- [birdsorder.R](dirds data)
+- [birdsorder.R](birdsorder.R)
 - [fireflies.R](fireflies.R)
 
