@@ -1,6 +1,6 @@
 ---
 title: "Lab 3: Introduction to ggplot"
-author: "___"
+author: "Jonathan Knyinda"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
@@ -13,13 +13,24 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
+ - Use layerd grammar of graphics
+
+ - Creat graphs showing the distribution of a single variable
+
+ - Add geometric objects to agraph
+
+ - Adjusting and styling the graphs 
+ 
+ - Adding labels to a graph
+ 
+- Difine an aisthetic maping for a graph
 
 ## Repository contents
 
 The repository contains the following scripts:
 
 - [Lab Report 3](lab-report.md)
-- ___
+- [Lab 3-intro to ggplot.R](Lab 3-intro to ggplot.R) 
+- [birdsorder.R](dirds data)
+- [fireflies.R](fireflies.R)
 
